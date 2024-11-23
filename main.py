@@ -71,7 +71,7 @@ tab2.markdown("""
 **Credits**
 - App built in `Python` + `Streamlit` by Abhishek :coffee:
 - Model used `LogisticRegression`
-- Github:link: `https://github.com/Saksham1515/Heart-Disease-Prediction-System`
+- Github:link: `https://github.com/abhiishekdhiman/Heart-Disease`
 """)
 tab2.divider()
 st.sidebar.header('User Input Paramter')
